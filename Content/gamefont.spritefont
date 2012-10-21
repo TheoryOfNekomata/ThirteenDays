@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+	<Asset Type="Graphics:FontDescription">
+		<FontName>FreeSans</FontName>
+		<Size>18</Size>
+		<Spacing>4</Spacing>
+		<Style>Bold</Style>
+		<DefaultCharacter>?</DefaultCharacter>
+		<CharacterRegions>
+			<CharacterRegion>
+				<Start>&#x20;</Start>
+				<End>&#x7E;</End>
+			</CharacterRegion>
+			<CharacterRegion>
+				<Start>&#x3041;</Start>
+				<End>&#x3093;</End>
+			</CharacterRegion>
+			<CharacterRegion>
+				<Start>&#x30A1;</Start>
+				<End>&#x30F3;</End>
+			</CharacterRegion>
+		</CharacterRegions>
+	</Asset>
+</XnaContent>
