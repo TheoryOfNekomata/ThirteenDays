@@ -1,4 +1,4 @@
-<img src="ThirteenDaysLogoBlack.png" />
+<img src="http://s19.postimage.org/hx7f08zir/Thirteen_Days_Logo_Black_No_Trans.png" />
 
 THIRTEEN DAYS
 =============
