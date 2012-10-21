@@ -25,8 +25,7 @@ his/her past within 13 days.
 
 License
 -------
-Thirteen Days is licensed under GNU General Public License v.3.0. Please see LICENSE.TXT
-for more info.
+GPL, perhaps. Please see LICENSE.TXT for more info.
 
 Development
 -----------
