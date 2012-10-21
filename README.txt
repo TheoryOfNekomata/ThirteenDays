@@ -18,7 +18,10 @@ Authors
 
 Plot Synopsis
 -------------
-plot synopsis goes here.
+The protagonist catches an accident that causes him/her getting bedridden for coma.
+As he/she lays unconscious for 13 weeks, he/she "wakes" up in some sort of "dream"
+wherein he/she gets to reclaim his/her memories and figure out what's wrong with
+his/her past within 13 days.
 
 License
 -------
