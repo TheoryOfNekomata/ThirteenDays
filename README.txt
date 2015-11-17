@@ -32,3 +32,4 @@ Development
 -----------
 If you would like to contribute, please note that this project is written in C# under
 .NET Framework 4.0, using XNA Game Studio 4.0.
+Join the chat at https://gitter.im/Temoto-kun/ThirteenDays
